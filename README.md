@@ -6,7 +6,7 @@ Flutter Music Player
 
 ## Link to download apk
 
-https://react-pokedex-vert.vercel.app/
+https://drive.google.com/file/d/1y4dUKqURzBQL07qbRkRvZLUxDWaiz6MA/view?usp=sharing
 
 ----
 
@@ -41,6 +41,6 @@ A Music App that leverages the iTunes Rest API to get music data and playable mu
 A few resources to get you started this Flutter project:
 
 - Clone or download this repository. You will need `flutter` installed globally on your machine.
-- Open emulator or prepared real device.
+- Open emulator or prepared real device with minSdkVersion 21.
 - Run `flutter pub get`.
 - Run the app in with your emulator or real device.
