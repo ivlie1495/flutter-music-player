@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1y4dUKqURzBQL07qbRkRvZLUxDWaiz6MA/view?usp=shari
 - Technologies
 - Setup
 
+
 ## About The App
 
 A Music App that leverages the iTunes Rest API to get music data and playable music trailers
@@ -25,8 +26,9 @@ A Music App that leverages the iTunes Rest API to get music data and playable mu
 
 ## Screenshots
 
-![music_app_1](https://user-images.githubusercontent.com/30109956/165763077-d66bab73-7307-4c9e-a109-d7beca6e7590.jpeg)
-![music_app_2](https://user-images.githubusercontent.com/30109956/165763091-9baa714d-cfe7-4001-a0dd-cd8705c48f66.jpeg)
+![Screen Shot 2022-04-28 at 20 51 53](https://user-images.githubusercontent.com/30109956/165767877-00b49c6f-02bf-43db-9d18-8292afd6d0ea.png)
+![Screen Shot 2022-04-28 at 20 51 32](https://user-images.githubusercontent.com/30109956/165767919-b0f7016e-fb38-4042-ae62-09f6bb99b779.png)
+
 
 ## Technologies
 
